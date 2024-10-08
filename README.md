@@ -1,7 +1,7 @@
-Hi 👋, I'm Alexandre Lopes
+#Hi 👋, I'm Alexandre Lopes#
 
 🎓 I’m currently a 3rd year student of the Bachelor's Degree in Informatics and Computing Engineering, at @FEUP
-
+🌍 I'm based in Viana do Castelo & Porto, Portugal
 📚 Always wanting to expand my knowledge, it's never late to learn more
 
 ## Projects
