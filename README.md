@@ -14,7 +14,7 @@ Sure! Here's a more organized version of your introduction:
 
 ## Skills and Tools
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,javascript,flutter,firebase,git,linux,py,sqlite,java,PHP&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,php,javascript,flutter,firebase,git,linux,py,sqlite,java,PHP&theme=dark)](https://skillicons.dev)
 
 ### Tools:
 [![My Tools](https://skillicons.dev/icons?i=vscode,clion,idea,androidstudio&theme=dark)](https://skillicons.dev)
