@@ -1,7 +1,7 @@
 ## Projects
 | UC   | Name      | Description                                                  |
 |------|-----------|--------------------------------------------------------------|
-| XXXX | XXXXXXXX  | Placeholder    |
+| AED | School Schedule Manager  | Command-line tool for managing schedules of LEIC students and retrieving information about classes, courses, and academic years (C++)    |
 <!--
 **AlexL534/AlexL534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
