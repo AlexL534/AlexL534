@@ -16,8 +16,11 @@ Sure! Here's a more organized version of your introduction:
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,php,javascript,dart,py,sqlite,java,PHP&theme=dark)](https://skillicons.dev)
 
+### IDEs:
+[![My Tools](https://skillicons.dev/icons?i=vscode,clion,idea&theme=dark)](https://skillicons.dev)
+
 ### Tools:
-[![My Tools](https://skillicons.dev/icons?i=vscode,clion,idea,androidstudio,flutter,firebase,gradle,git,github,gitlab,gherkin,figma&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=flutter,firebase,gradle,git,github,gitlab,gherkin,figma&theme=dark)](https://skillicons.dev)
 
 ---
 ## Projects
