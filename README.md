@@ -1,7 +1,7 @@
 ## Projects
 | UC   | Name      | Description                                                  |
 |------|-----------|--------------------------------------------------------------|
-| LDTS | Space Invaders  | Adaptation of the classic Space Invaders game, utilizing key software design and testing principles learned in class (Java w/ Lanterna)    |
+| LDTS | [Space Invaders]([https://github.com/yourusername/space-invaders](https://github.com/FEUP-LDTS-2023/project-l14gr08))  | Adaptation of the classic Space Invaders game, utilizing key software design and testing principles learned in class (Java w/ Lanterna)    |
 <!--
 **AlexL534/AlexL534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
