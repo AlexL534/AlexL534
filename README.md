@@ -1,5 +1,3 @@
-Sure! Here's a more organized version of your introduction:
-
 ---
 
 # Hi 👋, I'm Alexandre Lopes
