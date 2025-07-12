@@ -21,7 +21,7 @@
 [![My Tools](https://skillicons.dev/icons?i=flutter,firebase,gradle,git,github,gitlab,gherkin,figma&theme=dark)](https://skillicons.dev)
 
 ---
-## Projects
+## Relevant Projects
 | UC   | Name           | Description                                                                                                               |
 |------|----------------|---------------------------------------------------------------------------------------------------------------------------|
 | LDTS | [Space Invaders](https://github.com/AlexL534/Space_Invaders-LDTS) | Adaptation of the classic Space Invaders game, utilizing key software design and testing principles learned in class (Java w/ Lanterna). |
