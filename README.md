@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Alexandre Lopes
 
-🎓 **Currently a 3rd-year student** pursuing a Bachelor's Degree in Informatics and Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
+🎓 **1st year Master's student** in Informatics and Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
 
 🌍 **Based in** Viana do Castelo & Porto, Portugal.
 
