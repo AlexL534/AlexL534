@@ -29,4 +29,17 @@
 | DA | [TSP](https://github.com/AlexL534/da_project2) | Various algorithms to solve the TSP problem (C++). |
 | ESOF | [Green Go](https://github.com/AlexL534/Green_Go-ESOF) | Mobile app that encourages the use of sustainable means of transport. Developed using agile methods and applying several software engineering principles (Dart w/ Flutter, Firebase). |
 | LCOM | [Tennis For Two](https://github.com/AlexL534/Tennis_For_Two-LCOM) | Tennis game inspired in the classical game "Tennis for Two". Uses various devices learned during the classes. (C). |
-| LTW | [Vintage Lovers](https://github.com/AlexL534/Vintage_Lovers-LTW) | Website used to buy and sell pre-loved clothes (PHP, CSS, JavaScript, SQLite).|
+| LTW | [Vintage Lovers](https://github.com/AlexL534/Vintage_Lovers-LTW) | Website used to buy and sell pre-loved clothes (PHP, CSS, JavaScript, SQLite). |
+| RCOM | [Lab 1](https://github.com/AlexL534/Vintage_Lovers-LTW) | App that implements the link layer for a file transferring app using the Stop and Wait protocol. |
+| RCOM | [Lab 2](https://github.com/AlexL534/Vintage_Lovers-LTW) | App used to transfer files from FTP servers using the FTP protocol to comunicate. |
+| LBAW | [Wavy](https://github.com/AlexL534/Vintage_Lovers-LTW) | Social network implemented using Laravel as the backend framework. |
+| PFL | [Haskell Graph problems](https://github.com/AlexL534/Vintage_Lovers-LTW) | Social network implemented using Laravel as the backend framework. |
+| PFL | [Doblin](https://github.com/AlexL534/Vintage_Lovers-LTW) | Implementation of the board game named Doblin using Prolog. |
+| COMP | [Jmm Compiler](https://github.com/AlexL534/Vintage_Lovers-LTW) | A simple but complete Java Minus Minus Compiler. |
+| CG | [CG 3d scene](https://github.com/AlexL534/Vintage_Lovers-LTW) | 3D scene built with WebGL, showcasing a variety of objects and materials. |
+| CPD | [Matrix Multiplication](https://github.com/AlexL534/Vintage_Lovers-LTW) | Comparison of several matrix multiplication algorithms using OpenMP, C++ and Python. |
+| CPD | [Chat Service](https://github.com/AlexL534/Vintage_Lovers-LTW) | Chat service that leverages key concepts from distributed systems. |
+| IA | [Wood Block](https://github.com/AlexL534/Vintage_Lovers-LTW) | Wood block game using AI search algorithms to solve the puzzles and help the player with tips. |
+| IA | [Fraud Detection](https://github.com/AlexL534/Vintage_Lovers-LTW) | Fraud Dectection using supervised learning AI models. |
+| PI | [Biombos Namban](https://github.com/AlexL534/Vintage_Lovers-LTW) | Immersive educational AR escape room app for Museu Nacional Soares dos Reis, featuring mini-games and puzzles that gamify exploration of Portuguese-Japanese cultural heritage. |
+
