@@ -31,7 +31,7 @@
 | LCOM | [Tennis For Two](https://github.com/AlexL534/Tennis_For_Two-LCOM) | Tennis game inspired in the classical game "Tennis for Two". Uses various devices learned during the classes. (C). |
 | LTW | [Vintage Lovers](https://github.com/AlexL534/Vintage_Lovers-LTW) | Website used to buy and sell pre-loved clothes (PHP, CSS, JavaScript, SQLite). |
 | RCOM | [Stop & Wait ARQ Protocol](https://github.com/AlexL534/rcom-lab1-link-layer) | C implementation of a serial communication protocol with error detection, retransmissions, and flow control. Tested under varying network conditions (BER, delay, baud rate). |
-| RCOM | [Lab 2](https://github.com/AlexL534/Vintage_Lovers-LTW) | App used to transfer files from FTP servers using the FTP protocol to comunicate. |
+| RCOM | [FTP Client & Network Analysis](https://github.com/AlexL534/rcom-lab2-ftp) | C-based FTP client supporting passive mode file transfers, with Wireshark-validated network tests (NAT, DNS, TCP congestion control). |
 | LBAW | [Wavy](https://github.com/AlexL534/Vintage_Lovers-LTW) | Social network implemented using Laravel as the backend framework. |
 | PFL | [Haskell Graph problems](https://github.com/AlexL534/Vintage_Lovers-LTW) | Social network implemented using Laravel as the backend framework. |
 | PFL | [Doblin](https://github.com/AlexL534/Vintage_Lovers-LTW) | Implementation of the board game named Doblin using Prolog. |
