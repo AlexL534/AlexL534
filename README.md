@@ -36,7 +36,7 @@
 | PFL | [Haskell Graph problems](https://github.com/AlexL534/haskell-road-network-PFL) | Social network implemented using Laravel as the backend framework. |
 | PFL | [Doblin](https://github.com/AlexL534/Vintage_Lovers-LTW) | Implementation of the board game named Doblin using Prolog. |
 | COMP | [Jmm Compiler](https://github.com/AlexL534/jmm-compiler) | A simple but complete Java Minus Minus Compiler. |
-| CG | [CG 3d scene](https://github.com/AlexL534/Vintage_Lovers-LTW) | 3D scene built with WebGL, showcasing a variety of objects and materials. |
+| CG | [Interactive Firefighting Simulation](https://github.com/AlexL534/webgl-project-cg) | WebGL environment with interactive helicopter controls, animated fire/water effects, procedural terrain and shaders. |
 | CPD | [Matrix Multiplication](https://github.com/AlexL534/Vintage_Lovers-LTW) | Comparison of several matrix multiplication algorithms using OpenMP, C++ and Python. |
 | CPD | [Chat Service](https://github.com/AlexL534/Vintage_Lovers-LTW) | Chat service that leverages key concepts from distributed systems. |
 | IA | [Wood Block](https://github.com/AlexL534/Vintage_Lovers-LTW) | Wood block game using AI search algorithms to solve the puzzles and help the player with tips. |
