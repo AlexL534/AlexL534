@@ -37,7 +37,7 @@
 | PFL | [Doblin](https://github.com/AlexL534/Vintage_Lovers-LTW) | Implementation of the board game named Doblin using Prolog. |
 | COMP | [Jmm Compiler](https://github.com/AlexL534/jmm-compiler) | A simple but complete Java Minus Minus Compiler. |
 | CG | [Interactive Firefighting Simulation](https://github.com/AlexL534/webgl-project-cg) | WebGL environment with interactive helicopter controls, animated fire/water effects, procedural terrain and shaders. |
-| CPD | [Matrix Multiplication](https://github.com/AlexL534/Vintage_Lovers-LTW) | Comparison of several matrix multiplication algorithms using OpenMP, C++ and Python. |
+| CPD | [Matrix Multiplication](https://github.com/AlexL534/matrix-mult-cpd) | Comparison of several matrix multiplication algorithms using OpenMP, C++ and Python. |
 | CPD | [Chat Service](https://github.com/AlexL534/Vintage_Lovers-LTW) | Chat service that leverages key concepts from distributed systems. |
 | IA | [Wood Block](https://github.com/AlexL534/Vintage_Lovers-LTW) | Wood block game using AI search algorithms to solve the puzzles and help the player with tips. |
 | IA | [Fraud Detection](https://github.com/AlexL534/Vintage_Lovers-LTW) | Fraud Dectection using supervised learning AI models. |
