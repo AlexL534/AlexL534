@@ -35,7 +35,7 @@
 | LBAW | [Wavy](https://github.com/AlexL534/Wavy-LBAW) | Social network implemented using Laravel as the backend framework. |
 | PFL | [Haskell Graph problems](https://github.com/AlexL534/haskell-road-network-PFL) | Social network implemented using Laravel as the backend framework. |
 | PFL | [Doblin](https://github.com/AlexL534/Vintage_Lovers-LTW) | Implementation of the board game named Doblin using Prolog. |
-| COMP | [Jmm Compiler](https://github.com/AlexL534/Vintage_Lovers-LTW) | A simple but complete Java Minus Minus Compiler. |
+| COMP | [Jmm Compiler](https://github.com/AlexL534/jmm-compiler) | A simple but complete Java Minus Minus Compiler. |
 | CG | [CG 3d scene](https://github.com/AlexL534/Vintage_Lovers-LTW) | 3D scene built with WebGL, showcasing a variety of objects and materials. |
 | CPD | [Matrix Multiplication](https://github.com/AlexL534/Vintage_Lovers-LTW) | Comparison of several matrix multiplication algorithms using OpenMP, C++ and Python. |
 | CPD | [Chat Service](https://github.com/AlexL534/Vintage_Lovers-LTW) | Chat service that leverages key concepts from distributed systems. |
