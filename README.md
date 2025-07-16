@@ -37,7 +37,7 @@
 | PFL | [Doblin](https://github.com/AlexL534/Doblin-PFL) | Logic implementation of the board game "Doblin". **Technologies:** Prolog. |
 | COMP | [Jmm Compiler](https://github.com/AlexL534/jmm-compiler) | A simple but complete Java Minus Minus Compiler. **Technologies:** Java. |
 | CG | [Interactive Firefighting Simulation](https://github.com/AlexL534/webgl-project-cg) | WebGL environment with interactive helicopter controls, animated fire/water effects, procedural terrain and shaders. **Technologies:** WebGL, JavaScript. |
-| CPD | [Matrix Multiplication](https://github.com/AlexL534/matrix-mult-cpd) | Performance comparison of several matrix multiplication algorithms. **Technologies:** C++, Python, OpenMP. |
+| CPD | [Matrix Multiplication](https://github.com/AlexL534/matrix-multiplication-cpd) | Performance comparison of several matrix multiplication algorithms. **Technologies:** C++, Python, OpenMP. |
 | CPD | [Chat Service](https://github.com/AlexL534/chat-service-cpd) | Distributed chat service demonstrating concurrency and message ordering. **Technologies:** C. |
 | IA | [Wood Block](https://github.com/AlexL534/Wood-Block-IA) | Wood block game using AI search algorithms to solve the puzzles and help the player with tips. **Technologies:** Python. |
 | IA | [Fraud Detection](https://github.com/AlexL534/Fraud-Detection-IA) | Supervised machine learning models for fraud detection. **Technologies:** Python. |
