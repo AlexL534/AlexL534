@@ -12,7 +12,7 @@
 
 ## Skills and Tools
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,php,javascript,dart,py,sqlite,java,PHP,postgres,haskell,prolog&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,php,javascript,dart,py,sqlite,java,PHP,postgres,haskell&theme=dark)](https://skillicons.dev)
 
 ### IDEs:
 [![My Tools](https://skillicons.dev/icons?i=vscode,clion,idea&theme=dark)](https://skillicons.dev)
