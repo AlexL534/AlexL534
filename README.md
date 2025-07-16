@@ -18,7 +18,7 @@
 [![My Tools](https://skillicons.dev/icons?i=vscode,clion,idea&theme=dark)](https://skillicons.dev)
 
 ### Tools:
-[![My Tools](https://skillicons.dev/icons?i=flutter,firebase,gradle,git,github,gitlab,gherkin,figma&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=flutter,firebase,gradle,git,github,gitlab,gherkin,figma,laravel,tailwind,anaconda&theme=dark)](https://skillicons.dev)
 
 ---
 ## Relevant Projects
