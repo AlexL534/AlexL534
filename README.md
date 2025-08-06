@@ -41,5 +41,5 @@
 | CPD | [Chat Service](https://github.com/AlexL534/chat-service-cpd) | Distributed chat service demonstrating concurrency and message ordering. **Technologies:** C. |
 | IA | [Wood Block](https://github.com/AlexL534/Wood-Block-IA) | Wood block game using AI search algorithms to solve the puzzles and help the player with tips. **Technologies:** Python. |
 | IA | [Fraud Detection](https://github.com/AlexL534/Fraud-Detection-IA) | Supervised machine learning models for fraud detection. **Technologies:** Python. |
-| PI | [Biombos Namban](https://github.com/up202207553/PE27) | Immersive educational AR escape room app developed for Museu Nacional Soares dos Reis. Features mini-games and puzzles that gamify exploration of the "Biombos Namban" and their historical context. **Technologies:** Unity, Vuforia. |
+| PI | [Biombos Namban](https://github.com/AlexL534/Biombos-Namban-Escape-Room) | Immersive educational AR escape room app developed for Museu Nacional Soares dos Reis. Features mini-games and puzzles that gamify exploration of the "Biombos Namban" and their historical context. **Technologies:** Unity, Vuforia. |
 
