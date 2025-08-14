@@ -32,7 +32,7 @@
 | LTW | [Vintage Lovers](https://github.com/AlexL534/Vintage_Lovers-LTW) | E-commerce website for second-hand clothing. **Technologies:** PHP, JavaScript, CSS, SQLite. |
 | RCOM | [Stop & Wait ARQ Protocol](https://github.com/AlexL534/rcom-lab1-link-layer) | Serial communication protocol with error detection, retransmission, and flow control. **Technologies:** C. |
 | RCOM | [FTP Client & Network Analysis](https://github.com/AlexL534/rcom-lab2-ftp) | FTP client supporting passive mode transfers with Wireshark-based network analysis. **Technologies:** C. |
-| LBAW | [Wavy](https://github.com/AlexL534/Wavy-LBAW) | Social network developed using modern web technologies. **Technologies:** PHP, Laravel, MySQL. |
+| LBAW | [Wavy](https://github.com/AlexL534/Wavy-LBAW) | Social network developed using modern web technologies. **Technologies:** PHP, Laravel, PostgreSQL. |
 | PFL | [Haskell Graph problems](https://github.com/AlexL534/haskell-road-network-PFL) | Functional approach to graph traversal and analysis problems. **Technologies:** Haskell. |
 | PFL | [Doblin](https://github.com/AlexL534/Doblin-PFL) | Logic implementation of the board game "Doblin". **Technologies:** Prolog. |
 | COMP | [Jmm Compiler](https://github.com/AlexL534/jmm-compiler) | A simple but complete Java Minus Minus Compiler. **Technologies:** Java. |
