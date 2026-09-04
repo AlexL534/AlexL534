@@ -49,4 +49,4 @@
 | ASMA | [Lunar Lander Reinforcement Learning](https://github.com/AlexL534/Lunar-Lander-Reinforcement-Learning) | Reinforcement learning agents trained and evaluated in original and custom Lunar Lander environments. **Technologies:** Python, PyTorch |
 | O | [Procurement Optimization](https://github.com/AlexL534/Procurement-Optimization) | Optimization of supplier selection and product procurement using mathematical programming under cost and capacity constraints. **Technologies:** CPLEX |
 | MFS | [Elevator System Verification](https://github.com/AlexL534/Elevator-System-Verification) | Formal verification and refinement of a multi-elevator system, including fairness, liveness, and request cancellation. **Technologies:** TLA+ |
-| MFS | [File Verification](https://github.com/AlexL534/File-Verification) | Description **Technologies:** Dafny |
+| MFS | [File Verification](https://github.com/AlexL534/File-Verification) | Verified file utilities for reversing file contents and searching text using formally verified algorithms, including KMP. **Technologies:** Dafny |
