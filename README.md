@@ -47,6 +47,6 @@
 | PRI | [Board Games Search System](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Solr search system that supports lexical and semantic search. **Technologies:** Solr |
 | ASMA | [Multi Agent Disaster Response and Relief Coordination System](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
 | ASMA | [Lunar Lander Reinforcement Learning](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
-| O | [Multi Agent Disaster Response and Relief Coordination System](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
+| O | [Procurement Optimization](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
 | MFS | [Multi Agent Disaster Response and Relief Coordination System](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
 | MFS | [Multi Agent Disaster Response and Relief Coordination System](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
