@@ -48,5 +48,5 @@
 | ASMA | [Multi Agent Disaster Response and Relief Coordination System](https://github.com/AlexL534/Multi-Agent-Disaster-Response-and-Coordination-System) | Decentralized multi-agent disaster response simulation using autonomous agents and distributed task allocation. **Technologies:** Python, SPADE, Leaflet|
 | ASMA | [Lunar Lander Reinforcement Learning](https://github.com/AlexL534/Lunar-Lander-Reinforcement-Learning) | Reinforcement learning agents trained and evaluated in original and custom Lunar Lander environments. **Technologies:** Python, PyTorch |
 | O | [Procurement Optimization](https://github.com/AlexL534/Procurement-Optimization) | Optimization of supplier selection and product procurement using mathematical programming under cost and capacity constraints. **Technologies:** CPLEX |
-| MFS | [Elevator System Verification](https://github.com/AlexL534/Elevator-System-Verification) | Description **Technologies:** TLA+ |
+| MFS | [Elevator System Verification](https://github.com/AlexL534/Elevator-System-Verification) | Formal verification and refinement of a multi-elevator system, including fairness, liveness, and request cancellation. **Technologies:** TLA+ |
 | MFS | [File Verification](https://github.com/AlexL534/File-Verification) | Description **Technologies:** Dafny |
