@@ -45,8 +45,8 @@
 | DS | [Order Tracking Microservice](https://github.com/AlexL534/Tracking-System-DS) | Microservice for the MadeinPortugal.store project that enables users to track orders, leveraging blockchain to enhance transparency, security, and real-time location updates. **Technologies:** Go, React, GCP, Blockchain |
 | SDLE | [Local-First Shopping List App](https://github.com/AlexL534/Local_First_Shopping_List-SDLE) | Local-first application with cloud synchronization and peer-to-peer sharing. The cloud backend uses a DynamoDB-style model but using CRDTs to ensure consistency and high availability. **Technologies:** Node.js, React, JavaScript |
 | PRI | [Board Games Search System](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Solr search system that supports lexical and semantic search. **Technologies:** Solr |
-| ASMA | [Multi Agent Disaster Response and Relief Coordination System](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
-| ASMA | [Lunar Lander Reinforcement Learning](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
-| O | [Procurement Optimization](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Smth |
-| MFS | [Elevator System Verification](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** TLA+ |
-| MFS | [File Verification](https://github.com/AlexL534/Board-Games-Search-System-PRI) | Description **Technologies:** Dafny |
+| ASMA | [Multi Agent Disaster Response and Relief Coordination System](https://github.com/AlexL534/Multi-Agent-Disaster-Response-and-Coordination-System) | Description **Technologies:** Smth |
+| ASMA | [Lunar Lander Reinforcement Learning](https://github.com/AlexL534/Lunar-Lander-Reinforcement-Learning) | Description **Technologies:** Smth |
+| O | [Procurement Optimization](https://github.com/AlexL534/Procurement-Optimization) | Description **Technologies:** Smth |
+| MFS | [Elevator System Verification](https://github.com/AlexL534/Elevator-System-Verification) | Description **Technologies:** TLA+ |
+| MFS | [File Verification](https://github.com/AlexL534/File-Verification) | Description **Technologies:** Dafny |
